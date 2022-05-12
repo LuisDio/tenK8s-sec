@@ -7,3 +7,6 @@
 5) mTLS between services
 6) Secure secret Data
 7) Secure etcd store
+8) Backup and Restore
+9) configure security policies
+10) Disaster recovery
